@@ -14,6 +14,7 @@ This plugin will automatically connect to eZanga's network and place InText adve
 If you have a WordPress site, you have a source of income. Are you taking advantage of it? eZanga.com's InText plugin can help you monetize your website or blog by placing in-text ads on your site for you.
 
 eZanga InText Plugin
+
 Once you install the plugin and set up an account with eZanga's publisher platform (Traffic Advisors), eZanga InText will set up all the ads for you. It will place code on your site that selects and displays ads for you, so you can focus on growing your site and traffic.
 
 You don't even need to know HTML or other complicated coding languages to set it up. That makes it a great advertising option for blogs of all sizes. You can customize where ads appear and how many of them there are, or just sit back and let them earn you money.
