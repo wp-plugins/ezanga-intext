@@ -15,7 +15,7 @@ This plugin will automatically connect to eZanga's network and place InText adve
 What is eZanga.com?
 
 eZanga is an award-winning digital marketing company, specializing in online advertising and publishing 
-services. eZanga's proprietary platforms, AdPad® and Traffic Advisors, partner with thousands of publisher 
+services. eZanga's proprietary platforms, AdPad&reg; and Traffic Advisors, partner with thousands of publisher 
 websites, including content sites, blogs, and search engines. AdPad and Traffic Advisors Infinity are 
 easy-to-use with proven technology to create, manage, and optimize campaigns, putting our clients in the best 
 possible position to succeed. This brings our advertisers website visitors they normally wouldn't see 
