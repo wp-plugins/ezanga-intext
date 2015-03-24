@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: Tedskis
+Contributors: eZanga
 Donate link: We pay you!
 Tags: eZanga, eZanga.com, eZanga.com inc., Traffic Advisors, Advertising, Publishing, Advertiser, Publisher, Intext, InText Advertisements, Inline, Inline Advertisements
 Requires at least: 3.0.1
