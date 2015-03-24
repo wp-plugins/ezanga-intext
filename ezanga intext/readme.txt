@@ -35,9 +35,11 @@ Sign up for Traffic Advisors
 
 3) After filling out your contact information, you'll be taken to a source request form. Enter your WordPress blog's information in the 'Source Information' section and complete the rest of the form.
 
-4) Go to 'AdTypes' -> 'InText Advertising' -> 'Create New Ad Unit.'
+4) Wait for your account to be approved by an account manager. It usually takes one to two business days.
 
-5) To get your InText token for the plugin, create a new ad unit using your blog as the source.
+5) Once your account has been approved, go to 'AdTypes' -> 'InText Advertising' -> 'Create New Ad Unit.'
+
+6) To get your InText token for the plugin, create a new ad unit using your blog as the source.
 
 
 Installation of eZanga InText plugin
@@ -54,15 +56,15 @@ Installation of eZanga InText plugin
 
 6) Fill out the form. You will need the token you created in Traffic Advisors earlier. You can find it again by logging in. If you need assistance, call your eZanga business development representative at (888)439-2642.
 
-	DEFINITIONS:
+DEFINITIONS:
 
-	-MAXIMUM ADVERTISEMENTS PER PAGE: This limits the maximum number of InText advertisements that will be shown on any individual web page.
+MAXIMUM ADVERTISEMENTS PER PAGE: This limits the maximum number of InText advertisements that will be shown on any individual web page.
 
-	-CONTENT CLASSES: Content classes tell our keyword parser where to look for content on your web page. Enter the CSS class name of the element(s), or parent element(s), where you don't want to place InText advertisements. The class name: "entry-content" is the default class that Wordpress uses to define an article. Use commas to separate your classes. Only valid class names are allowed.
+CONTENT CLASSES: Content classes tell our keyword parser where to look for content on your web page. Enter the CSS class name of the element(s), or parent element(s), where you don't want to place InText advertisements. The class name: "entry-content" is the default class that Wordpress uses to define an article. Use commas to separate your classes. Only valid class names are allowed.
 
-	-STOP CLASSES: If InText advertisements are being displayed in an undesired area, such as a comments section, stop classes will tell our keyword parser where you don't want advertisements to be rendered. Enter the CSS class name of the element(s), or parent element(s), you would like to ignore. Use commas to separate your classes. Only valid class names are allowed.
+STOP CLASSES: If InText advertisements are being displayed in an undesired area, such as a comments section, stop classes will tell our keyword parser where you don't want advertisements to be rendered. Enter the CSS class name of the element(s), or parent element(s), you would like to ignore. Use commas to separate your classes. Only valid class names are allowed.
 
-	-STOP WORDS: If our keyword parser is returning words or phrases that you do not want in your results, add stop words to exclude keywords from the results. Use commas to separate your words.
+STOP WORDS: If our keyword parser is returning words or phrases that you do not want in your results, add stop words to exclude keywords from the results. Use commas to separate your words.
 
 
 7) Once you have filled out the form to your satisfaction click 'Save InText Options.'
