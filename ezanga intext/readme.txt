@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== eZanga InText ===
 Contributors: eZangaTed
 Donate link: We pay you!
 Tags: eZanga, eZanga.com, eZanga.com inc., Traffic Advisors, Advertising, Publishing, Advertiser, Publisher, Intext, InText Advertisements, Inline, Inline Advertisements
