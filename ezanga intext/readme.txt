@@ -98,10 +98,10 @@ representative at 888-439-2642.
 
 == Screenshots ==
 
-1. intext_screenshot_01.png. This screenshot is taken from the admin
+1. screenshot-1.png. This screenshot is taken from the admin
    section of the plugin.
 
-2. intext_screenshot_02.png. This screenshot shows an example of how
+2. screenshot-2.png. This screenshot shows an example of how
    an eZanga InText advertisement will display on a wordpress site.
 
 == Changelog ==
