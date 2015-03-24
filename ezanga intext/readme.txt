@@ -8,9 +8,10 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin will automatically connect to eZanga's network and place InText advertisements to your website.
 
 == Description ==
+
+This plugin will automatically connect to eZanga's network and place InText advertisements to your website.
 
 What is eZanga.com?
 
@@ -97,10 +98,10 @@ representative at 888-439-2642.
 
 == Screenshots ==
 
-1. http://www.ezanga.com/resources/wp-intext/intext_screenshot_01.png. This screenshot is taken from the admin
+1. intext_screenshot_01.png. This screenshot is taken from the admin
    section of the plugin.
 
-2. http://www.ezanga.com/resources/wp-intext/intext_screenshot_02.png. This screenshot shows an example of how
+2. intext_screenshot_02.png. This screenshot shows an example of how
    an eZanga InText advertisement will display on a wordpress site.
 
 == Changelog ==
