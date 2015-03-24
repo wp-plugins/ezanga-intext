@@ -103,7 +103,6 @@ representative at 888-439-2642.
 2. http://www.ezanga.com/resources/wp-intext/intext_screenshot_02.png. This screenshot shows an example of how
    an eZanga InText advertisement will display on a wordpress site.
 
-
 == Changelog ==
 
 = 1.0 =
