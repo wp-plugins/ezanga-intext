@@ -56,14 +56,13 @@ Installation of eZanga InText plugin
 
 	DEFINITIONS:
 
-	- MAXIMUM ADVERTISEMENTS PER PAGE: This limits the maximum number of InText advertisements that will 
-be shown on any individual web page.
+	-MAXIMUM ADVERTISEMENTS PER PAGE: This limits the maximum number of InText advertisements that will be shown on any individual web page.
 
-	- CONTENT CLASSES: Content classes tell our keyword parser where to look for content on your web page. Enter the CSS class name of the element(s), or parent element(s), where you don't want to place InText advertisements. The class name: "entry-content" is the default class that Wordpress uses to define an article. Use commas to separate your classes. Only valid class names are allowed.
+	-CONTENT CLASSES: Content classes tell our keyword parser where to look for content on your web page. Enter the CSS class name of the element(s), or parent element(s), where you don't want to place InText advertisements. The class name: "entry-content" is the default class that Wordpress uses to define an article. Use commas to separate your classes. Only valid class names are allowed.
 
-	- STOP CLASSES: If InText advertisements are being displayed in an undesired area, such as a comments section, stop classes will tell our keyword parser where you don't want advertisements to be rendered. Enter the CSS class name of the element(s), or parent element(s), you would like to ignore. Use commas to separate your classes. Only valid class names are allowed.
+	-STOP CLASSES: If InText advertisements are being displayed in an undesired area, such as a comments section, stop classes will tell our keyword parser where you don't want advertisements to be rendered. Enter the CSS class name of the element(s), or parent element(s), you would like to ignore. Use commas to separate your classes. Only valid class names are allowed.
 
-	- STOP WORDS: If our keyword parser is returning words or phrases that you do not want in your results, add stop words to exclude keywords from the results. Use commas to separate your words.
+	-STOP WORDS: If our keyword parser is returning words or phrases that you do not want in your results, add stop words to exclude keywords from the results. Use commas to separate your words.
 
 
 7) Once you have filled out the form to your satisfaction click 'Save InText Options.'
