@@ -25,7 +25,6 @@ the most desirable traffic to their sites for less money.
 	- http://www.ezanga.com/
 	- 888-439-2642 
 
-
 What is Traffic Advisors?
 
 eZanga.com's advanced fraud protection platform detects users' behavior patterns and determines in real-time 
@@ -67,7 +66,7 @@ Installation of eZanga InText plugin
 5) Once you have activated the plugin, click 'Settings' -> 'eZanga InText.'
 
 6) Fill out the form. You will need the token you created in Traffic Advisors earlier. You can find it again 
-   by logging in. If you need assistance, call your eZanga business development representative at (888) 439-2642.
+   by logging in. If you need assistance, call your eZanga business development representative at (888)439-2642.
 
 	= DEFINITIONS =
 
