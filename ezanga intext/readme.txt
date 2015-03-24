@@ -46,7 +46,7 @@ Sign up for Traffic Advisors
    signup process.
 
 3) After filling out your contact information, you'll be taken to a source request form. Enter your WordPress
-   blog's information in the ‘Source Information' section and complete the rest of the form.
+   blog's information in the 'Source Information' section and complete the rest of the form.
 
 4) Go to 'AdTypes' -> 'InText Advertising' -> 'Create New Ad Unit.'
 
