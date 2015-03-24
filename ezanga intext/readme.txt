@@ -16,14 +16,14 @@ What is eZanga.com?
 
 eZanga is an award-winning digital marketing company, specializing in online advertising and publishing services. eZanga's proprietary platforms, AdPad&reg; and Traffic Advisors, partner with thousands of publisher websites, including content sites, blogs, and search engines. AdPad and Traffic Advisors Infinity are easy-to-use with proven technology to create, manage, and optimize campaigns, putting our clients in the best possible position to succeed. This brings our advertisers website visitors they normally wouldn't see advertising with Google, Yahoo, and Bing. They also receive personalized account managers to assist them bring the most desirable traffic to their sites for less money. 
 
-	- http://www.ezanga.com/
-	- 888-439-2642 
+http://www.ezanga.com/
+888-439-2642 
 
 What is Traffic Advisors?
 
 eZanga.com's advanced fraud protection platform detects users' behavior patterns and determines in real-time whether or not the traffic source is a legitimate user or an automated machine. To maintain traffic quality, fraudulent clicks are eliminated before the client's budget is spent on them. By analyzing billions of searches per month, Traffic Advisors is able to make judgments and respond quickly. This ensures maximum exposure for advertisers through relevant ad placement.
 
-	- https://trafficadvisors.ezanga.com/
+https://trafficadvisors.ezanga.com/
 
 == Installation ==
 
@@ -85,9 +85,6 @@ If you have any questions about eZanga.com Inc., eZanga InText, or Traffic Advis
 
 = 1.0 =
 *original version
-
-= 1.01 =
-*updated description
 
 
 == Upgrade Notice ==
