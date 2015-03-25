@@ -8,7 +8,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin will automatically connect to eZanga's network and place InText advertisements to your website.
+This plugin will automatically connect to eZanga's network and place InText advertisements on your website.
 
 == Description ==
 If you have a WordPress site, you have a source of income. Are you taking advantage of it? eZanga.com's InText plugin can help you monetize your website or blog by placing in-text ads on your site for you.
