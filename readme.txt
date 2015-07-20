@@ -28,7 +28,7 @@ http://www.ezanga.com/
 
 What's Traffic Advisors?
 
-eZanga.com's advanced fraud protection platform detects users' behavior patterns and determines in real-time whether or not the traffic source is a legitimate user or an automated machine. To maintain traffic quality, fraudulent clicks are eliminated before the client's budget is spent on them. By analyzing billions of searches per month, Traffic Advisors® is able to make judgments and respond quickly. This ensures maximum exposure for advertisers through relevant ad placement.
+eZanga.com's advanced fraud protection platform detects users' behavior patterns and determines in real-time whether or not the traffic source is a legitimate user or an automated machine. To maintain traffic quality, fraudulent clicks are eliminated before the client's budget is spent on them. By analyzing billions of searches per month, Traffic Advisors&reg; is able to make judgments and respond quickly. This ensures maximum exposure for advertisers through relevant ad placement.
 
 https://trafficadvisors.ezanga.com/
 
@@ -36,7 +36,7 @@ https://trafficadvisors.ezanga.com/
 
 Sign up for Traffic Advisors
 
-1) Sign up for a Traffic Advisors® account at https://trafficadvisors.ezanga.com/#Signup. 
+1) Sign up for a Traffic Advisors&reg; account at https://trafficadvisors.ezanga.com/#Signup. 
 
 2) Shortly after completing the form, you'll receive a confirmation email with directions to complete the sign up process.
 
@@ -80,7 +80,7 @@ STOP WORDS: If our keyword parser is returning words or phrases that you do not 
 
 == Frequently Asked Questions ==
 
-If you have any questions about eZanga.com Inc., eZanga InText, or Traffic Advisors® please contact an eZanga representative at 888-439-2642.
+If you have any questions about eZanga.com Inc., eZanga InText, or Traffic Advisors&reg; please contact an eZanga representative at 888-439-2642.
 
 == Screenshots ==
 
