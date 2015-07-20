@@ -8,20 +8,20 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin will automatically connect to eZanga's network and place InText advertisements to your website.
+ This plugin will automatically connect to eZanga's network and place InText advertisements on your website.
 
 == Description ==
 If you have a WordPress site, you have a source of income. Are you taking advantage of it? eZanga.com's InText plugin can help you monetize your website or blog by placing InText ads on your site for you.
 
 eZanga InText Plugin
 
-Once you install the plugin and set up an account with eZanga's publisher platform (Traffic Advisors®), eZanga's InText will set up all the ads for you. It will place code on your site that selects and displays ads for you, so you can focus on growing your site and traffic.
+Once you install the plugin and set up an account with eZanga's publisher platform (Traffic Advisors&reg;), eZanga's InText will set up all the ads for you. It will place code on your site that selects and displays ads for you, so you can focus on growing your site and traffic.
 
 You don't even need to know HTML or other complicated coding languages to set it up. That makes it a great advertising option for blogs of all sizes. You can customize where ads appear and how many of them there are, or just sit back and let them earn you money.
 
 What's eZanga?
 
-eZanga is an award-winning digital marketing company, specializing in online advertising and publishing services. eZanga's proprietary platforms, AdPad® and Traffic Advisors®, partner with thousands of publisher websites, including content sites, blogs, and search engines. AdPad® and Traffic Advisors® are easy-to-use with proven technology to create, manage, and optimize campaigns, putting our clients in the best possible position to succeed. This brings our advertisers website visitors they normally wouldn't see advertising with Google, Yahoo, and Bing. They also receive personalized account managers to assist them bring the most desirable traffic to their sites for less money. 
+eZanga is an award-winning digital marketing company, specializing in online advertising and publishing services. eZanga's proprietary platforms, AdPad&reg; and Traffic Advisors&reg;, partner with thousands of publisher websites, including content sites, blogs, and search engines. AdPad&reg; and Traffic Advisors&reg; are easy-to-use with proven technology to create, manage, and optimize campaigns, putting our clients in the best possible position to succeed. This brings our advertisers website visitors they normally wouldn't see advertising with Google, Yahoo, and Bing. They also receive personalized account managers to assist them bring the most desirable traffic to their sites for less money. 
 
 http://www.ezanga.com/
 888-439-2642 
@@ -61,7 +61,7 @@ Installation of eZanga InText plugin
 
 5) Once you have activated the plugin, click 'Settings' -> 'eZanga InText.'
 
-6) Fill out the form. You will need the token you created in Traffic Advisors® earlier. You can find it again by logging in. If you need assistance, call your eZanga business development representative at (888)439-2642.
+6) Fill out the form. You will need the token you created in Traffic Advisors&reg; earlier. You can find it again by logging in. If you need assistance, call your eZanga business development representative at (888)439-2642.
 
 Definitions:
 
