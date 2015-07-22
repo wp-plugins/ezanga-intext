@@ -21,12 +21,12 @@ You don't even need to know HTML or other complicated coding languages to set it
 
 What's eZanga?
 
-eZanga is an award-winning digital marketing company, specializing in online advertising and publishing services. eZanga's proprietary platforms, AdPad&reg; and Traffic Advisors&reg;, partner with thousands of publisher websites, including content sites, blogs, and search engines. AdPad&reg; and Traffic Advisors&reg; are easy-to-use with proven technology to create, manage, and optimize campaigns, putting our clients in the best possible position to succeed. This brings our advertisers website visitors they normally wouldn't see advertising with Google, Yahoo, and Bing. They also receive personalized account managers to assist them bring the most desirable traffic to their sites for less money. 
+eZanga is an award-winning digital marketing company, specializing in online advertising and publishing services. eZanga's proprietary platforms, AdPad&reg; and Traffic Advisors&reg;, partner with thousands of publisher websites, including content sites, blogs, and search engines. AdPad&reg; and Traffic Advisors&reg; are easy-to-use with proven technology to create, manage, and optimize campaigns, putting our clients in the best possible position to succeed. This brings our advertisers website visitors they normally wouldn't see advertising with Google, Yahoo, and Bing. They also receive personalized account managers to assist them in bringing the most desirable traffic to their sites for less money. 
 
 http://www.ezanga.com/
 888-439-2642 
 
-What's Traffic Advisors?
+What's Traffic Advisors&reg;?
 
 eZanga.com's advanced fraud protection platform detects users' behavior patterns and determines in real-time whether or not the traffic source is a legitimate user or an automated machine. To maintain traffic quality, fraudulent clicks are eliminated before the client's budget is spent on them. By analyzing billions of searches per month, Traffic Advisors&reg; is able to make judgments and respond quickly. This ensures maximum exposure for advertisers through relevant ad placement.
 
@@ -76,7 +76,7 @@ STOP WORDS: If our keyword parser is returning words or phrases that you do not 
 
 7) Once you have filled out the form to your satisfaction click 'Save InText Options.'
 
-8) InText advertisements will now be displayed on your WordPress website. If ads do not display on your page, call your eZanga business development representative at (888) 439-2642.
+8) InText advertisements will now be displayed on your WordPress website. If ads do not display on your page, call your eZanga business development representative at 888-439-2642.
 
 == Frequently Asked Questions ==
 
